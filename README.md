@@ -24,15 +24,29 @@
 
 ---
 
-## 📸 Screenshots:
-(All screenshots are uploaded in this repository)
+## 📸 Screenshots
+
+### Lab Setup
+![Lab Setup](./screenshots/lab_setup.png)
+
+### Kali IP
+![Kali IP](./screenshots/kali_ip.png)
+
+### Target IP
+![Target IP](./screenshots/target_ip.png)
+
+### Ping Result
+![Ping](./screenshots/ping.png)
+
+### Nmap Scan
+![Nmap](./screenshots/nmap.png)
 
 ---
 
 ## 📄 Report:
-Task-1 report is uploaded as PDF
+[Download Task-1 Report](./Task-1%20Ethical%20Hacking%20Report.pdf)
 
 ---
 
 ## 🎯 Outcome:
-Successfully completed Task-1 and gained basic knowledge of ethical hacking and penetration testing.
+Successfully completed Task-1 and gained practical knowledge of ethical hacking and penetration testing.
