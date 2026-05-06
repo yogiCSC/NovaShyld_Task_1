@@ -43,7 +43,7 @@
 
 ---
 
-## 📄 Report:
+## 📄 Report
 [Download Task-1 Report](./Task-1%20Ethical%20Hacking%20Report.pdf)
 
 ---
